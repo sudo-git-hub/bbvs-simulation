@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+# Essentally adopted from: https://asecuritysite.com/commul/massey2
 import libnum
 import random
 
